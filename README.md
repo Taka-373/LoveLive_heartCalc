@@ -1,2 +1,0 @@
-# LoveLive_heartCalc
-ラブカけいさ
